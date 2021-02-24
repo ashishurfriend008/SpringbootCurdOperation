@@ -1,0 +1,5 @@
+https://howtodoinjava.com/spring-boot2/spring-boot-cache-example/
+
+https://www.javaguides.net/2019/10/spring-boot-crud-operations-example-with-jpa-hibernate.html
+
+https://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate(Better Explanation)
